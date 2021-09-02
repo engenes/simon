@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/assets/sounds/3.mp3"],"names":["module","exports"],"mappings":"qGAAAA,EAAOC,QAAU,IAA0B","file":"js/chunk-2d0ac40e.8e140c33.js","sourcesContent":["module.exports = __webpack_public_path__ + \"media/3.36d5a722.mp3\";"],"sourceRoot":""}
